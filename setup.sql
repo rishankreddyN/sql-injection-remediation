@@ -1,0 +1,1 @@
+-- SQL script to set up user table
